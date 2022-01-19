@@ -2,10 +2,11 @@ body {
   background-color: white;
 }
 hr {
-  background-color:#334257;
-  border-style:none;
+  border-color: grey;
+  border-style:dotted none none;
   height: 1px;
-  width: 70%;
+  width: 10%;
+  border-width: 5px;
 }
 h1, h3 {
   font-family: Verdana, Arial, Helvetica, sans-serif;
