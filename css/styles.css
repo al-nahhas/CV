@@ -1,0 +1,13 @@
+body {
+  background-color: white;
+}
+hr {
+  background-color:#334257;
+  border-style:none;
+  height: 1px;
+  width: 70%;
+}
+h1, h3 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: #45b29a;
+}
